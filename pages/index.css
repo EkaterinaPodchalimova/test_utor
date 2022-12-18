@@ -1,0 +1,7 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/circle-big/circle-big.css);
+@import url(../blocks/triangle/triangle.css);
+@import url(../blocks/circle-small/circle-small.css);
+@import url(../blocks/rectangle/rectangle.css);
+@import url(../blocks/rectangle-circle/rectangle-circle.css);

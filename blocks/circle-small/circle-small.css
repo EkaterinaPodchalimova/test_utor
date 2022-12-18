@@ -1,0 +1,10 @@
+.circle-small {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: rgb(74,162,107);
+    z-index: 3;
+    position: absolute;
+    top: 102px;
+    left: 169px;
+}

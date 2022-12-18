@@ -1,0 +1,10 @@
+.rectangle {
+    width: 230px;
+    height: 35px;
+    background-color: rgb(37,62,146);
+    rotate: 47deg;
+    z-index: 2;
+    position: absolute;
+    left: 35px;
+    top: 115px;
+}

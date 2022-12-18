@@ -1,0 +1,10 @@
+.circle-big {
+    display: block;
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    background-color: rgb(67,130,90);
+    position: absolute;
+    top: -80px;
+    left: -70px;
+}

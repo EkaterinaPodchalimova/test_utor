@@ -1,0 +1,10 @@
+.rectangle-circle {
+    width: 224px;
+    height: 60px;
+    background-color: rgb(134,32,184);
+    border-radius: 22px;
+    position: absolute;
+    left: 39px;
+    top: 201px;
+    z-index: 3;
+}
